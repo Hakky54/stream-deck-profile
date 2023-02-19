@@ -6,3 +6,7 @@ The profile contains:
 - Microsoft Teams shortcuts
 - CPU usage
 - Date and time
+- Media keys
+
+## Demo
+![alt text](https://github.com/Hakky54/stream-deck-profile/blob/master/images/demo.gif?raw=true)
