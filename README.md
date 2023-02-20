@@ -10,3 +10,13 @@
 - CPU usage
 - Date and time
 - Media keys
+
+## Required plugins
+- [Spotify](https://apps.elgato.com/plugins/com.elgato.spotify)
+- [Audio Mute](https://apps.elgato.com/plugins/com.fredemmott.micmutetoggle)
+- [CPU](https://apps.elgato.com/plugins/com.elgato.cpu)
+- [Time](https://apps.elgato.com/plugins/com.krabs.time)
+
+## Required icons
+- [Visual Studio Code](https://apps.elgato.com/icons/com.visualstudio.code)
+- [Microsoft Teams](https://apps.elgato.com/icons/com.vivremotion.teams)
