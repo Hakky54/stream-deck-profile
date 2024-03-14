@@ -11,6 +11,12 @@
 - Date and time
 - Media keys
 - Pasting unformatted text
+- Opening my workspace apps
+  - Intelijj IDEA
+  - Microsoft Outlook
+  - Microsoft Teams
+  - Slack
+  - Spotify
 
 ## Required plugins
 - [Spotify](https://apps.elgato.com/plugins/com.elgato.spotify)
