@@ -12,7 +12,7 @@
 - Media keys
 - Pasting unformatted text
 - Opening my workspace apps
-  - Intelijj IDEA
+  - IntelliJ IDEA
   - Microsoft Outlook
   - Microsoft Teams
   - Slack
